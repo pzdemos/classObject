@@ -12,3 +12,4 @@ add_executable(ConstructorCopyFunction src/InitialiseCleanup/ConstructorCopyFunc
 add_executable(ConstructorUseRules src/InitialiseCleanup/ConstructorUseRules/main.cpp)
 add_executable(DeepCopyLightCopy src/InitialiseCleanup/DeepCopyLightCopy/main.cpp)
 add_executable(InitialiseList src/InitialiseCleanup/InitialiseList/main.cpp)
+add_executable(ClassObjectBecomeObjectNumber src/InitialiseCleanup/ClassObjectBecomeObjectNumber/main.cpp)
