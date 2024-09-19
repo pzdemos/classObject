@@ -7,4 +7,4 @@ set(CMAKE_CXX_STANDARD 14)
 include_directories(include)
 
 add_executable(classObject src/main.cpp)
-add_executable(1ConstructorAndDestructor src/InitializeCleanup/1ConstructorAndDestructor/main.cpp)
+add_executable(1ConstructorAndDestructor src/InitializeCleanup/ConstructorAndDestructor/main.cpp)
