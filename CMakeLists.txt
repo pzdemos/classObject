@@ -14,3 +14,7 @@ add_executable(DeepCopyLightCopy src/objectInitialiseCleanup/DeepCopyLightCopy/m
 add_executable(InitialiseList src/objectInitialiseCleanup/InitialiseList/main.cpp)
 add_executable(ClassObjectBecomeObjectNumber src/objectInitialiseCleanup/ClassObjectBecomeObjectNumber/main.cpp)
 add_executable(staticNumber src/objectInitialiseCleanup/staticNumber/main.cpp)
+
+
+
+add_executable(membersSplitStorager src/objectModelAndThisPointer/membersSplitStorager/main.cpp)
