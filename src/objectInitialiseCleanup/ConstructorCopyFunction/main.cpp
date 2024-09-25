@@ -1,7 +1,7 @@
 /*  2024-09-19-11-09
  *   ´ÏÃ÷µÄ¼¦ÍÈ
  *   copyright by ÅíÕñ»Ô
- *  src/InitialiseCleanup/ConstructorCopyFunction
+ *  src/objectInitialiseCleanup/ConstructorCopyFunction
 */
 #include<iostream>
 

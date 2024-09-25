@@ -1,7 +1,7 @@
 /*  2024-09-19-15-15
  *   聪明的鸡腿
  *   copyright by 彭振辉
- *  src/InitialiseCleanup/InitialiseList
+ *  src/objectInitialiseCleanup/InitialiseList
  *  初始化属性
 */
 #include<iostream>

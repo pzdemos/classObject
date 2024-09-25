@@ -1,7 +1,7 @@
 /*  2024-09-19-14-33
  *   聪明的鸡腿
  *   copyright by 彭振辉
- *  src/InitialiseCleanup/DeepCopyLightCopy
+ *  src/objectInitialiseCleanup/DeepCopyLightCopy
  *  浅拷贝与深拷贝?
 */
 #include<iostream>

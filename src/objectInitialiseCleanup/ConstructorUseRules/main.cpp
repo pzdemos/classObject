@@ -1,7 +1,7 @@
 /*  2024-09-19-11-34
  *   聪明的鸡腿
  *   copyright by 彭振辉
- *  src/InitialiseCleanup/ConstructorUseRules
+ *  src/objectInitialiseCleanup/ConstructorUseRules
  *  构造函数调用规则
 */
 #include<iostream>

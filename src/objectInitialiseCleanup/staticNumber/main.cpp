@@ -1,7 +1,7 @@
 /*  2024-09-25-17-02
  *   聪明的鸡腿
  *   copyright by 彭振辉
- *  src/InitialiseCleanup/staticNumber
+ *  src/objectInitialiseCleanup/staticNumber
 */
 #include<iostream>
 using namespace std;

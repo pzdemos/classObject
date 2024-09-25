@@ -1,7 +1,7 @@
 /*  2024-09-19-15-43
  *   聪明的鸡腿
  *   copyright by 彭振辉
- *  src/InitialiseCleanup/ClassObjectBecomeObjectNumber
+ *  src/objectInitialiseCleanup/ClassObjectBecomeObjectNumber
  *  C++类中的成员可以是另一个类的对象，我们称该成员为 对象成员
 */
 /**
