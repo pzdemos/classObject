@@ -19,3 +19,4 @@ add_executable(staticNumber src/objectInitialiseCleanup/staticNumber/main.cpp)
 
 add_executable(membersSplitStorager src/objectModelAndThisPointer/membersSplitStorager/main.cpp)
 add_executable(objectCharacter_thisPointer src/objectModelAndThisPointer/objectCharacter_thisPointer/main.cpp)
+add_executable(emptyPointerInterMemberFunc src/objectModelAndThisPointer/emptyPointerInterMemberFunc/main.cpp)
