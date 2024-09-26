@@ -23,3 +23,4 @@ add_executable(emptyPointerInterMemberFunc src/objectModelAndThisPointer/emptyPo
 add_executable(constMakeMemberFunc src/objectModelAndThisPointer/constMakeMemberFunc/main.cpp)
 add_executable(globalFuncByFriend src/friend/globalFuncByFriend/main.cpp)
 add_executable(friendClass src/friend/friendClass/main.cpp)
+add_executable(memberFucByFriend src/friend/memberFucByFriend/main.cpp)

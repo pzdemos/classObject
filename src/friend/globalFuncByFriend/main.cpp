@@ -2,13 +2,14 @@
  *   聪明的鸡腿
  *   copyright by 彭振辉
  *  src/friend/globalFuncByFriend
+ *  1.全局函数做友元
 */
 #include<iostream>
 using namespace std;
 /*友元的目的就是让一个函数或者类 访问另一个类中私有成员
 
 */
-/*1.全局函数做友元*/
+
 class Building{
     //类的好朋友，可以访问类中的私有内容
     friend void goodFriend(Building &building);//✅
