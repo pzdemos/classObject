@@ -21,3 +21,4 @@ add_executable(membersSplitStorager src/objectModelAndThisPointer/membersSplitSt
 add_executable(objectCharacter_thisPointer src/objectModelAndThisPointer/objectCharacter_thisPointer/main.cpp)
 add_executable(emptyPointerInterMemberFunc src/objectModelAndThisPointer/emptyPointerInterMemberFunc/main.cpp)
 add_executable(constMakeMemberFunc src/objectModelAndThisPointer/constMakeMemberFunc/main.cpp)
+add_executable(globalFuncByFriend src/friend/globalFuncByFriend/main.cpp)
