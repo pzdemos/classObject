@@ -26,3 +26,4 @@ add_executable(friendClass src/friend/friendClass/main.cpp)
 add_executable(memberFucByFriend src/friend/memberFucByFriend/main.cpp)
 
 add_executable(add src/operatorOverLoading/add/main.cpp)
+add_executable(leftMove src/operatorOverLoading/leftMove/main.cpp)
